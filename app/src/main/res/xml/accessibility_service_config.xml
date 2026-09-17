@@ -3,7 +3,7 @@
      Aira only reads/automates UI when the user explicitly enables it
      and actively runs a command. It never silently performs actions. -->
 <accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeViewClicked|typeViewLongClicked|typeViewFocused|typeViewTextChanged|typeViewScrolled|typeNotificationStateChanged|typeNotificationClicked"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeViewClicked|typeViewLongClicked|typeViewFocused|typeViewTextChanged|typeViewScrolled|typeNotificationStateChanged"
     android:accessibilityFeedbackType="feedbackGeneric|feedbackAudible|feedbackHaptic"
     android:accessibilityFlags="flagDefault|flagRetrieveInteractiveWindows|flagReportViewIds|flagIncludeNotImportantViews"
     android:canRetrieveWindowContent="true"
