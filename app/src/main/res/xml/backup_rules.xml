@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Don't back up the encrypted API key container (the user can re-enter if needed) -->
+    <exclude domain="sharedpref" path="aira_secure_prefs.xml" />
+    <exclude domain="database" path="aira_memory.db" />
+</full-backup-content>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aira</string>
+
+    <!-- Accessibility service -->
+    <string name="accessibility_service_label">Aira — your personal AI agent</string>
+    <string name="accessibility_service_description">
+        Lets Aira read the visible screen and tap, type, scroll, and swipe
+        when you ask her to do a task. She never acts silently and never
+        bypasses other apps security.
+    </string>
+
+    <!-- Background assistant -->
+    <string name="bg_notification_title">Aira is here if you need me</string>
+    <string name="bg_notification_text">Background assistant is on</string>
+
+    <!-- Mood tag strings -->
+    <string name="mood_calm">Calm</string>
+    <string name="mood_happy">Happy</string>
+    <string name="mood_focused">Focused</string>
+    <string name="mood_caring">Caring</string>
+
+    <!-- Permissions titles -->
+    <string name="perm_microphone">Microphone</string>
+    <string name="perm_microphone_why">To hear your voice commands.</string>
+
+    <string name="perm_contacts">Contacts</string>
+    <string name="perm_contacts_why">So Aira can call or message someone by name.</string>
+
+    <string name="perm_sms">SMS</string>
+    <string name="perm_sms_why">To send a real text message when you ask.</string>
+
+    <string name="perm_phone">Phone</string>
+    <string name="perm_phone_why">To place calls directly from a voice command.</string>
+
+    <string name="perm_post_notifications">Notifications</string>
+    <string name="perm_post_notifications_why">So Aira can show you what she is doing.</string>
+
+    <string name="perm_bluetooth_connect">Bluetooth</string>
+    <string name="perm_bluetooth_connect_why">To turn Bluetooth on or off when you ask.</string>
+
+    <string name="perm_modify_audio_settings">Audio settings</string>
+    <string name="perm_modify_audio_settings_why">To change volume for you.</string>
+
+    <string name="perm_write_settings">System settings (brightness)</string>
+    <string name="perm_write_settings_why">To change screen brightness.</string>
+
+    <string name="perm_read_media_images">Photos &amp; videos</string>
+    <string name="perm_read_media_images_why">To find files by name.</string>
+
+    <string name="perm_read_media_audio">Music files</string>
+    <string name="perm_read_media_audio_why">To search for music by name.</string>
+
+    <string name="perm_schedule_exact_alarm">Alarms</string>
+    <string name="perm_schedule_exact_alarm_why">To set alarms that fire on time.</string>
+
+    <string name="perm_a11y">Accessibility Service</string>
+    <string name="perm_a11y_why">To tap, type, scroll, and read the screen when you ask.</string>
+
+    <string name="perm_generic">Permission</string>
+    <string name="perm_generic_why">Required for this feature.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aira_primary">#FF6750A4</color>
+    <color name="aira_primary_dark">#FF4F378B</color>
+    <color name="aira_background">#FFFFFBFE</color>
+    <color name="aira_background_dark">#FF1C1B1F</color>
+    <color name="aira_accent">#FFEADDFF</color>
+</resources>
